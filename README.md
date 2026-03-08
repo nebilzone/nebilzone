@@ -96,8 +96,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- GitHub overall stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=nebilzone&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nebilzone&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
 </p>
 
 <p align="center">
@@ -106,10 +105,8 @@
 </p>
 
 <p align="center">
-  <!-- Top languages used -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nebilzone&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nebilzone&layout=compact&theme=radical&hide_border=true" />
 </p>
-
 
 
 ---
